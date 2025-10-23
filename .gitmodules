@@ -1,0 +1,24 @@
+[submodule "aspen"]
+	path = aspen
+	url = git@github.com:mattborn/aspen.git
+[submodule "founder"]
+	path = founder
+	url = https://github.com/moonadesign/founder.git
+[submodule "highwest"]
+	path = highwest
+	url = git@github.com:mattborn/highwest.git
+[submodule "jenapps"]
+	path = jenapps
+	url = git@github.com:mattborn/jenapps.git
+[submodule "nothing-cli"]
+	path = nothing-cli
+	url = git@github.com:mattborn/nothing-cli.git
+[submodule "nothing-static"]
+	path = nothing-static
+	url = git@github.com:mattborn/nothing-static.git
+[submodule "superwork.dev"]
+	path = superwork.dev
+	url = git@github.com:superworkers/dev.git
+[submodule "superwork.ing"]
+	path = superwork.ing
+	url = git@github.com:superworkers/superworkers.github.io.git
