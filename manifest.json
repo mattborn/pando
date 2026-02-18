@@ -1,0 +1,32 @@
+{
+  "goals": [
+    "every project has latest nothing-static",
+    "every project uses same build and dev file",
+    "every project uses home.html not index or page",
+    "every project allows recursive layout override",
+    "every project deploys successfully",
+    "every project serves without errors"
+  ],
+  "projects": [
+    "mattborn/aspen",
+    "mattborn/highwest",
+    "mattborn/jenapps",
+    "mattborn/mattborn.github.io",
+    "mattborn/macabre",
+    "mattborn/spent",
+    "mattborn/sportsball",
+    "moonadesign/founder",
+    "moonadesign/revalize",
+    "superworkers/dev",
+    "superworkers/donepager",
+    "superworkers/doublebook",
+    "superworkers/glossairy",
+    "superworkers/mingentic",
+    "superworkers/pastor.bot",
+    "superworkers/pastor.tools",
+    "superworkers/quictate",
+    "superworkers/skipist",
+    "superworkers/superworkers.github.io",
+    "superworkers/websuite"
+  ]
+}

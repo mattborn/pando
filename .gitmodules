@@ -2,14 +2,17 @@
 	path = aspen
 	url = git@github.com:mattborn/aspen.git
 [submodule "founder"]
-	path = founder
+	path = moonadesign/founder
 	url = https://github.com/moonadesign/founder.git
 [submodule "highwest"]
 	path = highwest
 	url = git@github.com:mattborn/highwest.git
 [submodule "jenapps"]
-	path = jenapps
+	path = mattborn/jenapps
 	url = git@github.com:mattborn/jenapps.git
+[submodule "moonadesign/websuite"]
+	path = moonadesign/websuite
+	url = git@github.com:moonadesign/websuite.git
 [submodule "nothing-cli"]
 	path = nothing-cli
 	url = git@github.com:mattborn/nothing-cli.git
@@ -17,8 +20,26 @@
 	path = nothing-static
 	url = git@github.com:mattborn/nothing-static.git
 [submodule "superwork.dev"]
-	path = superwork.dev
+	path = superworkers/superwork.dev
 	url = git@github.com:superworkers/dev.git
 [submodule "superwork.ing"]
-	path = superwork.ing
+	path = superworkers/superwork.ing
 	url = git@github.com:superworkers/superworkers.github.io.git
+[submodule "superwork.me"]
+	path = superworkers/superwork.me
+	url = git@github.com:superworkers/me.git
+[submodule "superwork.studio"]
+	path = superworkers/superwork.studio
+	url = git@github.com:superworkers/studio.git
+[submodule "superwork.vc"]
+	path = superworkers/superwork.vc
+	url = git@github.com:superworkers/vc.git
+[submodule "superworkers/donepager"]
+	path = superworkers/donepager
+	url = https://github.com/superworkers/donepager
+[submodule "superworkers/glossairy"]
+	path = superworkers/glossairy
+	url = https://github.com/superworkers/glossairy
+[submodule "superworkers/quictate"]
+	path = superworkers/quictate
+	url = git@github.com:superworkers/quictate.git

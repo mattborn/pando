@@ -70,6 +70,14 @@ Or if you’ve already cloned it:
 git submodule update --init --recursive
 ```
 
-## License
+Then fast-forward all submodules to `main` with no force rebase or reset:
 
-MIT
+```bash
+git submodule foreach --recursive 'git switch main && git pull --ff-only'
+```
+
+Verify each submodule is on `main` instead of detached `HEAD`:
+
+```bash
+git submodule foreach --recursive 'git branch --show-current && git status --short --branch'
+```
